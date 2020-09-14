@@ -4,13 +4,15 @@
 
 ### :page_with_curl: About
 This application allows you to add, list, and click on the repositories, consuming the external github api.
+
 Application building with react.js. 
 
-### `yarn install`
+## `yarn install`
 to install the dependencies
 
-### `yarn start`
-to run the app. 
+## `yarn start`
+to run the app.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 application deployed on github pages:
