@@ -16,7 +16,7 @@ to run the app.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 
-Check application deployed on [Github-Pages] (https://felipteixeira.github.io/github-repo-explore/)
+Check application deployed on [Github-Pages](https://felipteixeira.github.io/github-repo-explore/)
 
 
 
