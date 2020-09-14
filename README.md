@@ -14,10 +14,10 @@ to run the app.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 application deployed on github pages:
-https://felipteixeira.github.io/github-repo-explore/ (https://felipteixeira.github.io/github-repo-explore/)
+https://felipteixeira.github.io/github-repo-explore/
 
 ### :heavy_check_mark: Result in Frontend
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="https://github.com/felipteixeira/github-repo-explore/blob/master/public/explore.gif">
 </p>
