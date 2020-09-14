@@ -7,16 +7,18 @@ This application allows you to add, list, and click on the repositories, consumi
 
 Application building with react.js. 
 
-## `yarn install`
+###### `yarn install`
 to install the dependencies
 
-## `yarn start`
+###### `yarn start`
 to run the app.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
-application deployed on github pages:
-https://felipteixeira.github.io/github-repo-explore/
+
+Check application deployed on [Github-Pages] (https://felipteixeira.github.io/github-repo-explore/)
+
+
 
 ### :heavy_check_mark: Result in Frontend
 
